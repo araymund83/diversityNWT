@@ -7,7 +7,7 @@ p_load(googledrive, glue, purrr)
 #--------------------------------------------
 paths <- list(
   inputPath = file.path("inputs"),
-  outputPath = file.path("outputs2")
+  outputPath = file.path("outputs")
 )
 
 #Download data from google drive 
